@@ -4,8 +4,7 @@
   
   Little Rook Chess
 
-  >>> Before compiling: Please remove comment from the constructor of the 
-  >>> connected graphics display (see below).
+  Modified for the Arduboy, 2016. ross@arduboy.com.
   
   Universal 8bit Graphics Library, https://github.com/olikraus/u8glib/
   
@@ -84,7 +83,6 @@ void uiStep(void)
   else
     uiKeyCode = CHESS_KEY_NONE;
 }
-
 
 void setup() {
   // rotate screen, if required
