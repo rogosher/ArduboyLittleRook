@@ -4,7 +4,7 @@
   
   Little Rook Chess
 
-  Modified for the Arduboy, 2016. ross@arduboy.com.
+  Modified for an Arduboy, 2016. ross@arduboy.com.
   
   Universal 8bit Graphics Library, https://github.com/olikraus/u8glib/
   
